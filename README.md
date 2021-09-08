@@ -1,2 +1,2 @@
 # hello-world
-this is for learning git hub
+this is Richard Wyeth's repository for learning git hub
